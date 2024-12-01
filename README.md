@@ -8,15 +8,14 @@ and create a modular and extensible text-based roguelike game using an engine.
 ## Workflow
 
 Features were first planned and designed using UML diagrams and then implemented with Java. The
-design rationale explains the design choices of each feature implemented and justified with the
-SOLID principles and design patterns, such as the factory design pattern. Interaction diagrams were
-created to show the flow of complex features. Code and documents were regularly reviewed by members
-and committed to the GitLab repository.
+design rationales explain the design choices of each feature implemented and justified with the 
+SOLID principles and design patterns, such as the factory method pattern. Interaction diagrams were 
+created to show the flow of complex features. The design documents can be found in `docs/design` 
+separated into stages, where each stage consists of 4 implemented features.
 
-The design documents can be found in `docs/design` separated into stages, where each stage
-consists of 4 implemented features. Each member was responsible for implementing one feature per
-stage along with the design documents on a separate branch. The final implementation was then merged
-into the main branch.
+Each member was responsible for implementing one feature per stage along with the design documents
+on a separate branch. Code and documents were regularly reviewed by members and committed to the
+GitLab repository. The final implementation was then merged into the main branch.
 
 ## Introduction
 
