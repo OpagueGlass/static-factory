@@ -148,11 +148,14 @@ public class Application {
     polymorphiaGameMap.at(13, 1).setGround(new Crater(new SuspiciousAstronautSpawner()));
 
     // Add items to the Polymorphia map
-    polymorphiaGameMap.at(5, 7).addItem(new LargeBolt());
-    polymorphiaGameMap.at(5, 8).addItem(new MetalSheet());
-    polymorphiaGameMap.at(5, 9).addItem(new MetalPipe());
-    polymorphiaGameMap.at(5, 10).addItem(new JarOfPickles());
-    polymorphiaGameMap.at(5, 11).addItem(new PotOfGold());
+    polymorphiaGameMap.at(18, 9).addItem(new LargeBolt());
+    polymorphiaGameMap.at(8, 6).addItem(new LargeBolt());
+    polymorphiaGameMap.at(28, 2).addItem(new LargeBolt());
+    polymorphiaGameMap.at(24, 5).addItem(new MetalSheet());
+    polymorphiaGameMap.at(2, 4).addItem(new MetalSheet());
+    polymorphiaGameMap.at(20, 12).addItem(new MetalPipe());
+    polymorphiaGameMap.at(10, 14).addItem(new JarOfPickles());
+    polymorphiaGameMap.at(4,2).addItem(new PotOfGold());
 
     // Add actors to the Polymorphia map
     polymorphiaGameMap.at(7, 9).addActor(new HuntsmanSpider());
