@@ -1,7 +1,5 @@
 # Static Factory
 
-## Overview
-
 Managing a group with 4 team members using Object-Oriented Principles and Design Patterns to design
 and create a modular and extensible text-based roguelike game using an engine.
 
