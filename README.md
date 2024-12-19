@@ -1,14 +1,18 @@
 # Static Factory
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/OpagueGlass/static-factory/main/.github/static-factory.png" alt="Static Factory"/>
+</p>
+
 Managing a group with 4 team members using Object-Oriented Principles and Design Patterns to design
 and create a modular and extensible text-based roguelike game using an engine.
 
 ## Workflow
 
 Features were first planned and designed using UML diagrams and then implemented with Java. The
-design rationales explain the design choices of each feature implemented and justified with the 
-SOLID principles and design patterns, such as the factory method pattern. Interaction diagrams were 
-created to show the flow of complex features. The design documents can be found in `docs/design` 
+design rationales explain the design choices of each feature implemented and justified with the
+SOLID principles and design patterns, such as the factory method pattern. Interaction diagrams were
+created to show the flow of complex features. The design documents can be found in `docs/design`
 separated into stages, where each stage consists of 4 implemented features.
 
 Each member was responsible for implementing one feature per stage along with the design documents
