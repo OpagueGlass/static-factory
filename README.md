@@ -52,7 +52,7 @@ The game ends when the player runs out of health.
   - Astley, a device which provides monologue options to the player while deducting credits over
     time as a subscription service
 - Computer Terminal to purchase items and travel between maps
-- Humanoid Figure to sell items to and receive credits
+- Humanoid Figure to sell items for credits
 
 ## Instructions
 
