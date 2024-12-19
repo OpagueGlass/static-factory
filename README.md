@@ -1,7 +1,8 @@
 # Static Factory
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/OpagueGlass/static-factory/main/.github/static-factory.png" alt="Static Factory"/>
+    <img src="https://raw.githubusercontent.com/OpagueGlass/static-factory/main/.github/static-factory.png" alt="Static Factory Map"/>
+    <img src="https://raw.githubusercontent.com/OpagueGlass/static-factory/main/.github/static-factory-menu.png" alt="Static Factory Menu"/>
 </p>
 
 Managing a group with 4 team members using Object-Oriented Principles and Design Patterns to design
